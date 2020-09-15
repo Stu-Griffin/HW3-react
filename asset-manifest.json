@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HW3-react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/HW3-react/static/js/main.eb3056f6.chunk.js",
+    "main.js.map": "/HW3-react/static/js/main.eb3056f6.chunk.js.map",
+    "runtime-main.js": "/HW3-react/static/js/runtime-main.e6798ed9.js",
+    "runtime-main.js.map": "/HW3-react/static/js/runtime-main.e6798ed9.js.map",
+    "static/js/2.b8316cae.chunk.js": "/HW3-react/static/js/2.b8316cae.chunk.js",
+    "static/js/2.b8316cae.chunk.js.map": "/HW3-react/static/js/2.b8316cae.chunk.js.map",
+    "index.html": "/HW3-react/index.html",
+    "precache-manifest.819b7c986faf8d007ccd1738750530e8.js": "/HW3-react/precache-manifest.819b7c986faf8d007ccd1738750530e8.js",
+    "service-worker.js": "/HW3-react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/HW3-react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.b8316cae.chunk.js.LICENSE.txt": "/HW3-react/static/js/2.b8316cae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6798ed9.js",
+    "static/js/2.b8316cae.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.eb3056f6.chunk.js"
+  ]
+}
